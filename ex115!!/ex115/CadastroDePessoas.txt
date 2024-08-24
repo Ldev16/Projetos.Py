@@ -1,0 +1,6 @@
+jose;35
+leonardo;20
+maria;85
+eduardo;32
+leonardo pinheiro;13
+julia autieri;11
